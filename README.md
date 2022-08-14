@@ -52,4 +52,3 @@ yarn install
 - [ ] Change the options in the `vite.config.ts`, `tsconfig.ts` you want.
 
 <br />
-
