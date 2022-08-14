@@ -50,6 +50,8 @@ yarn install
 - [ ] Modify or delete the `LICENSE` file.
 - [ ] Change the title, description and theme color in the `index.html`.
 - [ ] Change the options in the `vite.config.ts`, `tsconfig.ts` you want.
+- [ ] If you want, Change the `React-Query` options in `src/components/providers`.
+- [ ] Change the global styles in the `lib/GlobalStyles.ts`
 
 <br />
 
