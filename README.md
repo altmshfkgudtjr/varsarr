@@ -35,7 +35,9 @@ Then, install the dependencies:
 
 ```shell
 npm install
-# or
+```
+or
+```shell
 yarn install
 ```
 
