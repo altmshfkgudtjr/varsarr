@@ -19,7 +19,7 @@ function App() {
         <a href="https://vitejs.dev/" target="_blank">
           <p>Vite</p>
         </a>
-        <a href="https://axios-http.com/kr/" target="_blank">
+        <a href="https://axios-http.com/" target="_blank">
           <p>Axios</p>
         </a>
         <a href="https://reactjs.org/" target="_blank">

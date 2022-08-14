@@ -6,12 +6,12 @@ Speedy Vite Boilerplate.
 
 ![Varsarr](https://user-images.githubusercontent.com/47492535/184534122-93699988-ff25-4ba4-8816-22bcc80324c8.png)
 
-- Vite
-- React
-- Axios
-- Styled-Components
-- Recoil
-- React-Query
+- [Vite](https://vitejs.dev)
+- [React](https://reactjs.org)
+- [Axios](https://axios-http.com)
+- [Styled-Components](https://styled-components.com)
+- [Recoil](https://recoiljs.org)
+- [React-Query](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com)
 
 <br />
 
@@ -35,17 +35,13 @@ Then, install the dependencies:
 
 ```shell
 npm install
-```
-
-or
-
-```shell
+# or
 yarn install
 ```
 
 <br />
 
-### Check List
+## Check List
 
 - [ ] If you don't plan to use GitHub Actions, delete the `.github` folder.
 - [ ] Change the `name` field in package.json.
@@ -54,3 +50,4 @@ yarn install
 - [ ] Change the options in the `vite.config.ts`, `tsconfig.ts` you want.
 
 <br />
+
