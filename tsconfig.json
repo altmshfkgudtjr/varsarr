@@ -1,0 +1,46 @@
+{
+  /******************** Root Fields ********************/
+  "compileOnSave": true,
+  "include": ["src/**/*", "@types/**/*"],
+  "exclude": ["node_modules", "**/node_modules/*", "build"],
+  "references": [{ "path": "./tsconfig.node.json" }],
+
+  "compilerOptions": {
+    "target": "esnext",
+    // :::: module :::: //
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    // :::: React :::: //
+    "jsx": "react-jsx",
+    // :::: JS :::: //
+    "allowJs": true,
+    "checkJs": false,
+    // :::: Lint :::: //
+    "strict": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": false,
+    "strictNullChecks": true,
+    // :::: More spec :::: //
+    "lib": ["dom", "dom.iterable", "esnext"],
+    // :::: Sorcemap :::: //
+    "sourceMap": false,
+    // :::: Etc :::: //
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    // :::: Detail :::: //
+    "disableSizeLimit": true,
+    "forceConsistentCasingInFileNames": false,
+    "incremental": true,
+    // :::: Outfile :::: //
+    "removeComments": true,
+    "noEmit": true,
+    // :::: path :::: //
+    "baseUrl": "./src",
+    "paths": {},
+    "typeRoots": ["@types", "./node_modules/@types"]
+  }
+}
