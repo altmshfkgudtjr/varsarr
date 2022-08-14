@@ -4,6 +4,8 @@
 
 Speedy Vite Boilerplate.
 
+![Varsarr](https://user-images.githubusercontent.com/47492535/184534122-93699988-ff25-4ba4-8816-22bcc80324c8.png)
+
 - Vite
 - React
 - Axios
