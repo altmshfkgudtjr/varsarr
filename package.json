@@ -29,7 +29,7 @@
     "eslint-plugin-react": "7.31.1",
     "eslint-plugin-react-hooks": "4.6.0",
     "prettier": "2.7.1",
-    "typescript": "4.7.4",
+    "typescript": "4.8.2",
     "vite": "3.0.9",
     "vite-tsconfig-paths": "3.5.0"
   },
