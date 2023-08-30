@@ -31,7 +31,7 @@
     "prettier": "2.8.8",
     "typescript": "5.2.2",
     "vite": "4.4.9",
-    "vite-tsconfig-paths": "3.5.2"
+    "vite-tsconfig-paths": "3.6.0"
   },
   "browserslist": {
     "production": "Edge >= 18, Firefox >= 60, Chrome >= 61, Safari >= 11, Opera >= 48",
