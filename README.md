@@ -28,7 +28,7 @@ Speedy Vite Boilerplate.
 Use this repository as a [GitHub template](https://github.com/wtchnm/Vitamin/generate) or use [degit](https://github.com/Rich-Harris/degit) to clone to your machine with an empty git history:
 
 ```shell
-npx degit altmshfkgudtjr/varsarr#main my-app
+npx degit altmshfkgudtjr/varsarr my-app
 ```
 
 Then, install the dependencies:
