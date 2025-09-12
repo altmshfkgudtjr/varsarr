@@ -12,15 +12,15 @@
   "dependencies": {
     "@tanstack/react-query": "4.36.1",
     "axios": "1.6.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
     "recoil": "0.7.7",
     "styled-components": "^6.0.7"
   },
   "devDependencies": {
     "@types/node": "18.16.20",
-    "@types/react": "18.2.37",
-    "@types/react-dom": "18.2.15",
+    "@types/react": "19.1.13",
+    "@types/react-dom": "19.1.9",
     "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "5.59.11",
     "@vitejs/plugin-react": "4.0.4",
