@@ -1382,7 +1382,7 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-7.5.1.tgz#0480eeb7221eb9bc398ad7432c9d7e14b1a5a367"
   integrity sha512-cJRQXpObxfNKkFAZbJl2yjWtJCqELQIdShsogr1d2MilP8dKD9TE/nEKHkJgUNHdGKCQaf9HbIynuV2csLGVLg==
 
-"@types/styled-components@^5.1.26":
+"@types/styled-components@5.1.26":
   version "5.1.26"
   resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.26.tgz#5627e6812ee96d755028a98dae61d28e57c233af"
   integrity sha512-KuKJ9Z6xb93uJiIyxo/+ksS7yLjS1KzG6iv5i78dhVg/X3u5t1H7juRWqVmodIdz6wGVaIApo1u01kmFRdJHVw==
@@ -3307,7 +3307,7 @@ strip-json-comments@^3.1.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-3.1.1.tgz#31f1281b3832630434831c310c01cccda8cbe006"
   integrity sha512-6fPc+R4ihwqP6N/aIv2f1gMH8lOVtWQHoqC4yK6oSDVVocumAsfCqjkXnqiYMhmMwS/mEHLp7Vehlt3ql6lEig==
 
-styled-components@^6.0.7:
+styled-components@6.0.7:
   version "6.0.7"
   resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-6.0.7.tgz#1cf4a5e6b6181b29f941934df54af19b7ef05ab0"
   integrity sha512-xIwWuiRMYR43mskVsW9MGTRjSo7ol4bcVjT595fGUp3OLBJOlOgaiKaxsHdC4a2HqWKqKnh0CmcRbk5ogyDjTg==
